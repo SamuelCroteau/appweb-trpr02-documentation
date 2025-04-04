@@ -3,23 +3,16 @@
 layout: home
 
 hero:
-  name: "Documentation travail pratique 2"
-  text: "Documentation travail pratique 2 du cours d'application web"
-  tagline: My great project tagline
+  name: "Travail pratique 2"
+  text: "Documentation du projet"
+  tagline: Par Marc-Antoine Jobin et Samuel Croteau-L.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Marc-Antoine Jobin
+      link: /Marc-Antoine%20Jobin
+    - theme: brand
+      text: Samuel Croteau
+      link: /Samuel%20Croteau
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+
 

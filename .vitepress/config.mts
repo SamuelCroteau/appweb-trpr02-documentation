@@ -8,15 +8,16 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Marc-Antoine Jobin', link: '/Marc-Antoine%20Jobin' },
+      { text: 'Samuel Croteau', link: '/Samuel%20Croteau' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Contributeurs',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Marc-Antoine Jobin', link: '/Marc-Antoine%20Jobin' },
+          { text: 'Samuel Croteau', link: '/Samuel%20Croteau' }
         ]
       }
     ],
