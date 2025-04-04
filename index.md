@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Travail pratique 2"
   text: "Documentation du projet"
-  tagline: Par Marc-Antoine Jobin et Samuel Croteau-L.
+  tagline: Par Marc-Antoine Jobin et Samuel Croteau
   actions:
     - theme: brand
       text: Marc-Antoine Jobin
