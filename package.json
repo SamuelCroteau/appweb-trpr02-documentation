@@ -3,5 +3,8 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
