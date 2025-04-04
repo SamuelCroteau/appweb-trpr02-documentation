@@ -13,6 +13,6 @@ hero:
     - theme: brand
       text: Samuel Croteau
       link: /Samuel%20Croteau
-
+---
 
 
