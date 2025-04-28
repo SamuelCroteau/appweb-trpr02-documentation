@@ -10,7 +10,10 @@ Cette semaine, Samuel a fait le code pour le leaderboard et la creation du perso
 
 ## Code Review \#3
 
+travail fait:
+playerstore(pour passage de nom et ship), handlerepair, premiere version du gameview(que jai change apres), tests
 
 
+Cette semaine, samuel a créé le playerStore, car il ne réussisais pas à les passer comme on voulait au début avec les routes, donc il a utilisé cela à la place, qui marche aussi. Il a aussi codé le handleRepair, qui est logique et qui utilise les bonnes valeurs et constantes, et il a aussi fait la première version du gamview, c'est à dire qu'il a tenté de faire afficher le joueur et lennemi etc sur lecran de jeu, mais je suis repassé dessus par la suite car ils ne s'affichait pas correctement. Ensuite, il a fait des tests pour la creation de personnage pour verifier que cela ne laisse pas passer le joueur si le nom est vide.
 
 

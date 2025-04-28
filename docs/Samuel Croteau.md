@@ -25,3 +25,22 @@ Il utilise également des computed pour calculer le pourcentage de vie restant, 
 CombatPlayer.vue est très similaire ce qui est normal, car il s'agit d'une logique similaire.
 
 ## Code Review \#3
+
+### Le travaille fait
+
+- Logique du fetch enemies
+- Classe fighter (avec fetch enemies)
+- Resolve combat method appelé par handleAttack
+- Affichage de GameView, combatEnemy et combatPlayer
+- Game actions, game infos
+- NavBar (Cela fait longtemps mais j'avais oublié de l'ajouter)
+- Un pop-up pour sortir de game (avec commentaire sur l'élégence de la solution)
+- Constantes de fighter stats
+
+- test resolve combat
+- test scoreboard
+
+### Le code 
+Le code est bien structuré et respecte les bonnes pratiques. Il utilise des props pour passer les données entre les composants. Les méthodes sont bien nommées et le code est facile à lire. Les tests sont bien écrits et couvrent ce qui est à tester.
+Le modale de confirmation pour quitter le jeu est bien fait, il n'utilise pas celui vu en classe, mais il est tout de même efficace. Les classes ajoutées remplissent leurs roles et le code est bien structuré.
+
